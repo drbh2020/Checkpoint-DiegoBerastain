@@ -1,0 +1,5 @@
+Software
+
+- Software de Sistema: BASH
+- Software de Programación: IntelliJ
+- Sofware de Aplicación: Word

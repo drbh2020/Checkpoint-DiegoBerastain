@@ -1,0 +1,21 @@
+499  cd Checkpoint-DiegoBerastain
+500  git init
+501  git remote add origin https://github.com/drbh2020/Checkpoint-DiegoBerastain.git
+502  touch main.js index.html
+503  git status
+504  git add .
+505  git commit -m "commit 01 de DiegoBerastain"
+506  git push origin main
+507  git checkout -b feature
+508  git branch -a
+509  mkdir Hardware/ Software/ SeguridadInformatica/
+510  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+511  git status
+512  git add .
+513  git commit -m "commit 02 de DiegoBerastain"
+514  git push origin feature
+515  git checkout main
+516  mv main.js resumenHardware.txt
+517  mv index.html resumenSoftware.txt
+518  touch comandos.txt
+519  history
